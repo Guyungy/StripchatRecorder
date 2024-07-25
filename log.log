@@ -13890,3 +13890,1785 @@ streamlink.exceptions.PluginError: Unable to open URL: https://b-hls-19.doppiocd
 25/07/2024 10:23:49 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
 
 25/07/2024 10:23:56 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:30 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:31 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:31 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:31 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:31 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:49 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:49 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:50 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:02:51 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:10 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:11 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:11 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:11 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:11 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:31 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:31 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:31 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:31 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:31 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:32 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:33 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:52 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:03:53 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:14 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:35 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:36 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:36 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:36 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:36 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:56 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:04:57 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:16 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:17 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:18 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:19 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:19 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:19 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:19 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:37 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:37 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:37 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:38 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:39 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:40 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:58 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:05:59 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls/76346615/76346615.m3u8 (404 Client Error: Not Found for url: https://b-hls-07.doppiocdn.com/hls/76346615/76346615.m3u8)
+
+25/07/2024 14:06:18 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:18 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:19 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:20 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:38 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:39 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:40 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:40 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:40 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:06:40 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:00 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:01 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:21 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:21 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:21 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:21 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:22 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:23 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:23 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:23 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:23 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:24 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:42 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:42 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:42 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:42 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:42 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:43 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:44 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:44 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:44 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:44 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:44 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:45 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:07:46 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:03 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:03 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:03 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:03 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:04 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:05 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:05 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:05 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:05 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:24 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:24 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:25 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:25 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:25 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:25 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:25 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:26 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:27 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:46 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:46 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:46 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:47 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:08:48 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:07 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:07 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:08 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:09 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:28 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:28 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:29 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:30 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:50 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:51 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:09:52 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:11 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:12 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:13 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:32 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:32 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:32 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:32 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:33 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:34 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:34 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:34 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:34 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:53 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:53 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:53 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:53 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:54 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:55 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:55 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:55 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:55 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:56 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:10:56 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:14 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:14 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:14 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:14 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:15 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:16 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:35 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:35 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:35 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:36 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:37 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:37 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:37 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:37 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:37 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:38 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:56 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:56 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:56 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:57 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:58 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:58 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:58 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:11:59 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:17 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:18 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:18 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:18 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:18 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:18 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:18 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:37 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:38 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:41 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:57 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:57 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:57 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:58 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:59 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:12:59 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:00 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:02 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:17 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:17 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:17 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:17 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:18 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:19 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:38 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:39 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:58 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:58 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:58 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:58 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:58 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:13:59 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:19 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:20 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:20 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:20 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:20 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:21 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:21 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:39 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:40 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:40 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:40 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:40 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:40 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:41 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:41 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:41 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:41 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:41 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:42 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:14:59 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:00 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:01 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:02 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-03.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-03.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-18.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-18.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-19.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-19.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-23.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-23.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-04.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-04.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-17.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-17.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-11.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-11.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-07.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-07.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-24.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-24.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-06.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-06.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:20 EXCEPTION: Unable to open URL: https://b-hls-21.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-21.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:21 EXCEPTION: Unable to open URL: https://b-hls-14.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-14.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:21 EXCEPTION: Unable to open URL: https://b-hls-10.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-10.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:21 EXCEPTION: Unable to open URL: https://b-hls-12.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-12.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:21 EXCEPTION: Unable to open URL: https://b-hls-20.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-20.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:21 EXCEPTION: Unable to open URL: https://b-hls-09.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-09.doppiocdn.com/hls//.m3u8)
+
+25/07/2024 14:15:22 EXCEPTION: Unable to open URL: https://b-hls-05.doppiocdn.com/hls//.m3u8 (403 Client Error: Forbidden for url: https://b-hls-05.doppiocdn.com/hls//.m3u8)
